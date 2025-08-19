@@ -1,17 +1,18 @@
 <div align="center">
 
-# 👋 Hi, I'm **Sundas Razzaq**
+  <h1>👋 Hi, I'm <b>Sundas Razzaq</b></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=520&lines=MERN+Stack+Developer;Backend+%E2%80%A2+APIs+%E2%80%A2+Databases;Also+Python+%2F+Django+Lover;Always+learning%2C+always+building)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=520&lines=MERN+Stack+Developer;Backend+•+APIs+•+Databases;Also+Python+/+Django+Lover;Always+learning,+always+building)](https://git.io/typing-svg)
 
 </div>
+
 
 ## 🚀 About Me
 - 💻 **MERN-focused developer** — building RESTful APIs, real-world UIs, and end-to-end apps.
 - 🐍 Also ship projects in **Python** and **Django** (ORM, auth, templates, MySQL).
 - 🔭 Current focus: **scalable Node/Express backends**, **React UI polish**, and **deployment**.
 - 🎯 Goal: Become a **strong backend-leaning full-stack developer**.
-- 📬 Reach me: **https://www.linkedin.com/in/sundas-razzaq-00a865316/** • **sundasr621@gmail.com**
+- 📬 Reach me: **linkedIn** • **email**
 
 ---
 
@@ -63,9 +64,10 @@
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_HERE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_HERE)
-[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundas-razzaq-00a865316/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://sundas.dev)
+[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](sundasr621@gmail.com)
+
 
 <!-- Optional: Profile views counter -->
 ![Profile views](https://komarev.com/ghpvc/?username=Sundas-Razzaq&style=flat-square&color=blue) 
