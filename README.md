@@ -12,7 +12,7 @@
 - 🐍 Also ship projects in **Python** and **Django** (ORM, auth, templates, MySQL).
 - 🔭 Current focus: **scalable Node/Express backends**, **React UI polish**, and **deployment**.
 - 🎯 Goal: Become a **strong backend-leaning full-stack developer**.
-- 📬 Reach me: **linkedIn** • **email**
+- 📬 Reach me: **sundasr621@gmail.com**
 
 ---
 
@@ -66,8 +66,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundas-razzaq-00a865316/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://sundas.dev)
-[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](sundasr621@gmail.com)
-
 
 <!-- Optional: Profile views counter -->
 ![Profile views](https://komarev.com/ghpvc/?username=Sundas-Razzaq&style=flat-square&color=blue) 
