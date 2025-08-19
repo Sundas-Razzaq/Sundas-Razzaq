@@ -2,7 +2,7 @@
 
   <h1>👋 Hi, I'm <b>Sundas Razzaq</b></h1>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=520&lines=MERN+Stack+Developer;Backend+•+APIs+•+Databases;Also+Python+/+Django+Lover;Always+learning,+always+building)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=700&lines=MERN+Stack+Developer+%7C+Frontend+%2B+Backend;Building+Robust+APIs+and+Databases;Python+%26+Django+Enthusiast+%7C+Always+Learning;Crafting+Projects+That+Solve+Real+Problems)](https://git.io/typing-svg)
 
 </div>
 
