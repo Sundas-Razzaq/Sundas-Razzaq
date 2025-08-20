@@ -65,7 +65,7 @@
 ## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundas-razzaq-00a865316/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://sundas.dev)
+<!---[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://sundas.dev)-->
 
 <!-- Optional: Profile views counter -->
 ![Profile views](https://komarev.com/ghpvc/?username=Sundas-Razzaq&style=flat-square&color=blue) 
