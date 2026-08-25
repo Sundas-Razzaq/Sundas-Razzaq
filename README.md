@@ -2,97 +2,121 @@
 
 <h1>Hi, I'm <b>Sundas Razzaq</b></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=24&pause=1000&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+Full+Stack+Web+Applications;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Backend-Focused+Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Practical+Full+Stack+Applications)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
-I am a **Computer Science student** at **COMSATS University Islamabad** with a strong interest in **Full Stack Web Development**.
+I am a **Computer Science student at COMSATS University Islamabad** with a strong interest in **Full Stack Web Development**.
 
-My primary focus is building modern web applications using the **MERN Stack (MongoDB, Express.js, React, Node.js)**. I enjoy developing responsive user interfaces, designing scalable backend systems, building secure REST APIs, and creating real-world applications.
+My primary focus is the **MERN Stack**, where I build responsive frontend applications, RESTful APIs, secure authentication systems, and database-driven applications.
 
-Alongside JavaScript technologies, I continue strengthening my backend development skills with **Python** and **Django** while continuously learning modern software development practices.
+I also have experience with **Python and Django** and continue strengthening my backend development skills through hands-on projects and continuous learning.
 
-### Current Focus
-
-- Full Stack MERN Development
-- Backend Development with Node.js & Express.js
-- REST API Development
-- Authentication & Authorization
-- MongoDB Database Design
-- Writing Clean & Maintainable Code
-- Deployment & Performance Optimization
-
-📧 **Email:** **sundasrazzaq621@gmail.com**
+I enjoy turning ideas into practical applications, solving development problems, and improving my understanding of how modern web applications are designed and built.
 
 ---
 
-# Tech Stack
+## Tech Stack
+
+### Frontend
 
 <div align="center">
 
-## Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="50"/>
+</div>
 
----
+### Backend
 
-## Backend
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45"/>
 
----
+</div>
 
-## Databases
+### Databases
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+<div align="center">
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
 
-## Tools & Platforms
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50"/>
+### Development Tools
 
----
+<div align="center">
 
-## Design
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50"/>
+</div>
+
+### Design
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45"/>
 
 </div>
 
 ---
 
-# Featured Projects
+## GitHub Analytics
 
-## InfraCrackNet *(Final Year Project)*
+<div align="center">
 
-Role-based infrastructure crack inspection platform developed using the MERN stack.
+<img src="https://github-readme-stats.vercel.app/api?username=Sundas-Razzaq&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 
-**Key Features**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sundas-Razzaq&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 
-- Authentication & Authorization
-- Role-based Dashboards
-- Image Upload
-- Inspection Management
-- Report Generation
-- Responsive Dashboard UI
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+[![Sundas's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sundas-Razzaq&theme=github-compact&hide_border=true&area=true)](https://github.com/Sundas-Razzaq)
+
+</div>
+
+---
+
+## Featured Projects
+
+### InfraCrackNet
+
+**Final Year Project — Full Stack Web Application**
+
+A web-based infrastructure inspection platform designed to manage projects, inspections, image analysis workflows, validation, and report generation.
+
+**My Contributions**
+
+- Full-stack web application development
+- React-based dashboard and user interfaces
+- REST API integration
+- Authentication and authorization
+- Inspection and project management
+- Image upload workflow
+- Report generation workflow
+- Role-based application structure
 
 **Tech Stack**
 
@@ -101,21 +125,24 @@ Role-based infrastructure crack inspection platform developed using the MERN sta
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28"/>
 
-Repository: *(Coming Soon)*
+Repository: **Coming Soon**
 
 ---
 
-## Task Manager (MERN)
+### Task Manager
 
-A full-stack task management application featuring secure authentication and complete CRUD functionality.
+**Full Stack MERN Application**
 
-**Key Features**
+A full-stack task management application built with React, Node.js, Express.js, and MongoDB.
 
-- JWT Authentication
-- Protected Routes
-- CRUD Operations
-- REST API
-- Responsive UI
+**Features**
+
+- JWT authentication
+- Protected routes
+- CRUD operations
+- RESTful API
+- MongoDB database
+- Responsive frontend
 
 **Tech Stack**
 
@@ -124,25 +151,24 @@ A full-stack task management application featuring secure authentication and com
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28"/>
 
-Repository:
-https://github.com/Sundas-Razzaq/Task-Manager
-
-Live Demo:
-https://task-manager-mern-dx3h.vercel.app
+[Repository](https://github.com/Sundas-Razzaq/Task-Manager) • [Live Demo](https://task-manager-mern-dx3h.vercel.app)
 
 ---
 
-## Django E-Commerce Store
+### Django E-Commerce Store
 
-Multi-role e-commerce platform developed with Django.
+**Multi-Role E-Commerce Application**
 
-**Key Features**
+An e-commerce platform developed with Django featuring customer and seller functionality.
+
+**Features**
 
 - Authentication
-- Cart & Wishlist
+- Shopping cart
+- Wishlist
 - Checkout
-- Seller Dashboard
-- Order Management
+- Seller dashboard
+- Order management
 
 **Tech Stack**
 
@@ -151,14 +177,15 @@ Multi-role e-commerce platform developed with Django.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28"/>
 
-Repository:
-https://github.com/Sundas-Razzaq/ecommerce_store
+[Repository](https://github.com/Sundas-Razzaq/ecommerce_store)
 
 ---
 
-## Games Collection
+### Games Collection
 
-Collection of browser games built using HTML, CSS and JavaScript.
+**Frontend JavaScript Projects**
+
+A collection of interactive browser games created while developing and strengthening frontend and JavaScript skills.
 
 **Tech Stack**
 
@@ -166,37 +193,21 @@ Collection of browser games built using HTML, CSS and JavaScript.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28"/>
 
-Repository:
-https://github.com/Sundas-Razzaq/GamesCollection
-
-Live Demo:
-https://sundas-razzaq.github.io/GamesCollection/
+[Repository](https://github.com/Sundas-Razzaq/GamesCollection) • [Live Demo](https://sundas-razzaq.github.io/GamesCollection/)
 
 ---
 
-# GitHub Statistics
+## Current Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sundas-Razzaq&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sundas-Razzaq&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=Sundas-Razzaq&theme=github-dark&hide_border=true" height="170"/>
+`Advanced Backend Development` • `REST APIs` • `Database Design` • `Authentication` • `Deployment`
 
 </div>
 
 ---
 
-<div align="center">
-
-[![Sundas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sundas-Razzaq&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-# Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -214,6 +225,14 @@ https://sundas-razzaq.github.io/GamesCollection/
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Sundas-Razzaq&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Sundas-Razzaq&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<b>Building. Learning. Improving.</b>
 
 </div>
